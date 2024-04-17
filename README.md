@@ -1,4 +1,4 @@
-#### *Technical Skills* **->** C, C#, C++, Python, SQL, Java, AutomationAnywhere
+#### *Technical Skills* **->** C, C#, C++, Python, SQL, Java, AutomationAnywhere, Uipath, .NET
 
 ## Work Exprience
 ### Internship @ Banco del Pacífico
@@ -25,11 +25,14 @@ Banco del Pacífico required a solution to simplify the management of transactio
 - Mitigated potential financial risks by identifying suspicious transaction patterns.
 - Demonstrated proficiency in automation, Python scripting, and user-centric design.
 
+
+
 ### Laboratory Technician @ Escuela Superior Politécnica del Litoral
 #### Project: Passive Warehouse Management Platform
 <p align="center">
   <img src="images/Project2.PNG" alt="Python + AA Project" width="400" />
 </p>
+
 **Summary:**
 In a collaborative effort within a four-member team, I served as one of two backend developers while working on the Passive Warehouse Management Platform. Specializing in .NET/C#, my primary responsibility involved designing and implementing the backend architecture, including database structures and API endpoints. Our collective goal was to optimize the asset management process within the institution, targeting the inefficiencies inherent in handling assets assigned to custodians and transferring them to a passive warehouse, which involved cumbersome paperwork and resultant delays.
 
