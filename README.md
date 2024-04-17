@@ -64,7 +64,3 @@ Cumbersome paperwork for asset transfer, coupled with limited passive warehouse 
 <p align="center">
   <img src="images/2.png" alt="Python + AA Project" width="450" />
 </p>
-
-
-
-
