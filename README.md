@@ -1,4 +1,4 @@
-### *Technical Skills* **->** C, C#, C++, Python, SQL, Java, AutomationAnywhere, Uipath, .NET
+#### *As a Mechatronics Engineer, I possess a fervent enthusiasm for programming, electronics, and technology.  I am eager to contribute to a professional environment where I can apply my skills, take on new challenges, and continue learning.* 
 
 ## Work Exprience
 ### Internship @ Banco del Pacífico
