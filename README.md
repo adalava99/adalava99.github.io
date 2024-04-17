@@ -1,4 +1,4 @@
-#### *Technical Skills* **->** C, C#, C++, Python, SQL, Java, AutomationAnywhere, Uipath, .NET
+### *Technical Skills* **->** C, C#, C++, Python, SQL, Java, AutomationAnywhere, Uipath, .NET
 
 ## Work Exprience
 ### Internship @ Banco del Pacífico
