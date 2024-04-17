@@ -47,11 +47,10 @@ Cumbersome paperwork for asset transfer, coupled with limited passive warehouse 
 ## Personal Projects
 ### Django API
 
-**Description:** As part of my self-directed learning journey to improve and expand my skills in web development with Python, I've explored Django and developed a basic API using Django REST Framework for managing a product inventory. This project allows me to practice CRUD operations and deepen my understanding of Django and RESTful API development.
+**Description:** As part of my self-directed learning journey to improve and expand my skills in web development with Python, I've explored Django and developed a basic API using Django REST Framework for managing a product inventory. This project, powered by PostgreSQL as the backend database, allows me to practice CRUD operations and deepen my understanding of Django and RESTful API development.
 
-Repository: [Link to the repository of your Django API](URL_DEL_REPOSITORIO)
+**Repository:** [Link to the repository of your Django API](https://github.com/adalava99/practice_project.git)
 
-This project showcases my initiative and dedication to learning new technologies independently. Feel free to explore the source code and additional details about this project in the linked repository.
 
 
 
