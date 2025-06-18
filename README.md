@@ -1,4 +1,4 @@
-#### *As a Mechatronics Engineer, I possess a fervent enthusiasm for programming, electronics, and technology.  I am eager to contribute to a professional environment where I can apply my skills, take on new challenges, and continue learning.* 
+#### *I am a Mechatronics Engineer with two years of experience in software development, specializing in backend for web platforms and the design of secure, scalable APIs. I've worked with international teams, strengthening my communication skills, clearly expressing ideas, and proactively adapting to dynamic and collaborative environments. Currently, I'm focused on expanding my knowledge in data engineering, aiming to integrate new technologies that support my professional growth and allow me to take on increasingly complex challenges in this field.* 
 
 ## Work Exprience
 ### Internship @ Banco del Pacífico
@@ -55,12 +55,4 @@ Cumbersome paperwork for asset transfer, coupled with limited passive warehouse 
 
 
 ## Personal Projects
-### Django API
 
-**Description:** As part of my self-directed learning journey to improve and expand my skills in web development with Python, I've been exploring Django and developed a basic API using Django REST Framework for managing a product inventory. This project, powered by PostgreSQL as the backend database, allows me to practice CRUD operations and deepen my understanding of Django and RESTful API development.
-
-**Repository:**[Link to the repository](https://github.com/adalava99/practice_project.git)
-
-<p align="center">
-  <img src="images/2.png" alt="Python + AA Project" width="450" />
-</p>
